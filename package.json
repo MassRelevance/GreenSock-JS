@@ -2,7 +2,7 @@
   "name": "greensock-js",
   "version": "1.9.8-mr",
   "description": "Animation Library",
-  "main": "src/uncompressed/TweenLite.js",
+  "main": "src/uncompressed/TweenMax.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
